@@ -1,1 +1,2 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eHxaYojFgl8?si=m9ZYkIH1nEpoXpnT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img alt="Static Badge" src="https://img.shields.io/badge/seriously-ch-red?style=for-the-badge&logo=github&labelColor=black&color=rgb(254%2C%200%2C%200)&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCOWF6Yc61v1C9QxB8bWlWxw">
+
