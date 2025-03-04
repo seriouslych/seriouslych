@@ -8,8 +8,11 @@
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS"/>
+  <p></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seriouslych&amp;theme=monokai&amp;show_icons=true&amp;hide_border=false&amp;layout=compact" alt="seriouslych&#39;s Top Languages"></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=seriouslych&amp;theme=monokai&amp;hide_border=false" alt="seriouslych&#39;s Streak"></p>
 </div>
 <hr></hr>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=seriouslych&theme=dark-minimalist" alt="GitHub Streak" /></a>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=seriouslych&amp;theme=monokai&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" alt="seriouslych&#39;s Stats"></p>
 </div>
