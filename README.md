@@ -7,12 +7,14 @@
   <p></p>
 </div>
 <div align="center">
-  <img src="https://github.com/seriouslych/seriouslych/blob/main/arch.png?raw=true" height="100" width="200"/>
+  <img src="https://github.com/seriouslych/seriouslych/blob/main/pingu-penguin.gif?raw=true" width="auto" height="100" alt="pingu-penguin"/>
   <p></p>
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://github.com/seriouslych/seriouslych/blob/main/arch.png?raw=true" height="100" width="200"/>
+  <!--<p></p>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML"/> 
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS"/>
-  <p></p>
+  <p></p>-->
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seriouslych&amp;theme=monokai&amp;show_icons=true&amp;hide_border=false&amp;layout=compact" alt="seriouslych&#39;s Top Languages"></p>
   <p><img src="https://github-readme-stats.vercel.app/api?username=seriouslych&amp;theme=monokai&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" alt="seriouslych&#39;s Stats"></p>
 </div>
